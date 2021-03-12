@@ -1,0 +1,15 @@
+body{
+    box-sizing: border-box;
+}
+.caro-background{
+    background-color: #fceae8;
+}
+h3{
+    color: red;
+}
+.categories img{
+    width: 80px;
+}
+.bags img{
+    width: 70%;
+}
